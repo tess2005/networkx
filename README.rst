@@ -40,7 +40,7 @@ of complex networks.
 Simple example
 --------------
 
-Find the shortest path between two nodes in an undirected graph:
+Find shortest path between two nodes in an undirected graph:
 
 .. code:: pycon
 
